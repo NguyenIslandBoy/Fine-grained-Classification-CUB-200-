@@ -1,6 +1,6 @@
 # Fine-Grained Bird Classification - CUB-200-2011
 
-Image classification of 200 bird species using transfer learning (EfficientNetB5, **87% test accuracy**) and a custom CNN trained from scratch (**55–62% test accuracy**) on 5,994 training images.
+Image classification of 200 bird species using transfer learning (EfficientNetB5, **86% test accuracy**) and a custom CNN trained from scratch (**50% test accuracy**) on 5,994 training images.
 
 ## Results
 
